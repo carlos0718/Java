@@ -1,2 +1,0 @@
-Bienvenidos a JAVA
-Escribiendo con BufferedRead
